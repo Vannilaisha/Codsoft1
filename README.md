@@ -1,2 +1,2 @@
-# Codsoft1
+# Codsoft/calci
 Calculator
